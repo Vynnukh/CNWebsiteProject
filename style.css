@@ -1,0 +1,170 @@
+body{
+    margin: 0%px 0px 0px 0px;
+}
+#navbar{
+    background-color: blueviolet;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#navbar a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navbar a:hover{
+    color: aqua;
+}
+
+    #HmpgBackground {
+    background-image: url(homepage_background.jpg);
+    }
+    #ETIBackground {
+        background-image: url(nebula_background_4.jpg);
+    }
+    #GTCBackground {
+        background-image: url(space_background.jpg);
+    }
+h1, p, h3, h2, h4, h5 {
+    color: White;
+}
+h1 {
+    text-decoration: underline;
+}
+/* This will change the colour of all h1 headings within the HTML file */
+.large {
+    font-size: 38px;
+}
+.medium {
+    font-size: 26px;
+}
+.mediumSmall {
+    font-size: 22px;
+}
+.mediumSmaller {
+    font-size: 19px;
+    font-style: italic;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+/* .Example is a class #Example is and ID */
+/* #purple {
+    color: blueviolet;
+} */
+/* This is an ID */
+
+/* .one {
+    background-color: rgb(90, 180, 183, 0.5);
+    padding: 0px 0px 0px 0px;
+} */
+/* Background colour allows the mixing of colours (R, G, B, (Transparency) */
+/* Ordered top, right, bottom and left */
+* {
+box-sizing: border-box;
+}
+#VerseriousImg {
+    width: 90%;
+}
+#VGTC {
+    display: flex;
+    justify-content: space-between;
+}
+.VerseriousIndex {
+    display: flex;
+    justify-content: space-between;
+}
+.VerseriousText{
+    text-align: left;
+}
+#VerseriousIPic {
+    display: flex;
+    justify-content: center;
+}
+#VerseriousChronicles {
+    display: flex;
+    justify-content: space-evenly;
+}
+#Rrallkon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#RA {
+    display: flex;
+    justify-content: space-between;
+}
+#TerriaIndex {
+display: flex;
+justify-content: center;
+}
+#ZehreIndex {
+    display: flex;
+    justify-content: space-between;
+}
+.Img50{
+    width: 50%;
+}
+.Img25{
+    width: 25%;
+}
+#RilkXievIndex {
+    display: flex;
+    justify-content: space-between;
+}
+#PalznikImg {
+    width: 50%;
+}
+#PalzikIndex {
+    display: flex;
+    justify-content: flex-end;
+}
+#TerriaKhretulHydra {
+    display: flex;
+    justify-content: space-around;
+}
+#TerriaKhretul {
+    display: flex;
+    justify-content: space-evenly;
+}
+#HydraText {
+    display: flex;
+    justify-content: flex-end;
+}
+#IslandCollage {
+    display: flex;
+    justify-content: space-between;
+}
+#TerriaIntro {
+    display: flex;
+    justify-content: space-between;
+}
+#AltaeusConflict {
+    display: flex;
+    justify-content: center;
+}
+.AltaeusImg {
+    width: 50%;
+}
+.KhretulImg {
+    display: flex;
+    justify-content: center;
+}
+#MinotaurGTC {
+    display: flex;
+    justify-content: center;
+}
+#HydraGTC {
+    display: flex;
+    justify-content: center;
+}
+p, h1, h2, h3, h4, h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: inherit;
+    font-weight: normal;
+    font-style: normal;
+}
